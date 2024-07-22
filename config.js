@@ -9,18 +9,18 @@ global.setting = {
  }
 
 global.owner = [
-['212717457920', 'Nour', true],
-['212605784394', 'imillie', false],
-['212693227969', '8bal', false]
+['2348111637463', 'Alex', true],
+['2348111637463', 'imillie', false],
+['2348111637463', '8bal', false]
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '2348089782988',
- nameown: 'Nour',
- nomerown: '212717457920',
+ nomerbot: '2348111637463',
+ pairingNumber: '2348111637463',
+ nameown: 'Alex',
+ nomerown: '2348111637463',
  packname: 'sticker by ',
- author: 'Noureddine',
+ author: 'MACKSYN',
  namebot: 'ꜱɪʟᴀɴᴀ',
  wm: ''-'_꩜ 𝘚𝘪𝘭𝘢𝘯𝘢 𝘣𝘰𝘵 ꩜_'-'',
  stickpack: 'Whatsapp',
@@ -51,12 +51,12 @@ global.url = {
  sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N1j7'
 }
 
-global.wait =` انتظر .. أنا أحاول تلبية طلبك ...`
+global.wait =`Hold on.. I'm trying to fulfill your request...`
 
 // Info Wait
 global.msg = {
  wait: '⏱️ *Please be patient*\n\> Running command from *User*!',
- eror: '🤖*Bot Information*\n\> Sorry for the inconvenience in using *Bobiza Bot*. There was an error in the system while executing the command.'
+ eror: '🤖*Bot Information*\n\> Sorry for the inconvenience in using *Lussh AI*. There was an error in the system while executing the command.'
 }
 
 global.multiplier = 69
