@@ -1,7 +1,7 @@
 {
-  "name": "bobiza-md",
+  "name": "Lussh-AI",
   "version": "1.0.0",
-  "description": "bobiza MD || Don t sell it or your name will be lost. If someone wants to buy this script, tell them to contact the owner",
+  "description": "Lussh AI || Don t sell it or your name will be lost. If someone wants to buy this script, tell them to contact the owner",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -13,7 +13,7 @@
   },
   "keywords": [
     "termux-whatsapp-bot",
-    "bobiza",
+    "lussh",
     "whatsapp",
     "js-whatsapp",
     "whatsapp",
