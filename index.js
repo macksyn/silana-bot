@@ -29,11 +29,11 @@ const {
  tz } = moment
 const app = express();
 const port = process.env.PORT || 8082;
-const time = tz('Africa/casablanca').format('HH:mm:ss');
+const time = tz('Africa/Lagos').format('HH:mm:ss');
 const currentFilePath = new URL(import.meta.url).pathname;
 const __dirname = dirname(fileURLToPath(import.meta.url))
 
-let bot_ku = 'SILANA BOT'
+let bot_ku = 'LUSSH AI'
 say(bot_ku, {
   font: "simpleBlock",
   align: "center",
@@ -134,7 +134,7 @@ const totalFoldersAndFiles = await getTotalFoldersAndFiles(pluginsFolder);
 ┣ Feature: ${chalk.white(totalFoldersAndFiles.files)} Feature
 ╰──⎔⎔ 
 
-⎔──⎔⎔ Creator: ${chalk.bold.cyan('NOUREDDINE OUAFY')} ⎔⎔──⎔`)
+⎔──⎔⎔ Creator: ${chalk.bold.cyan('ALEX MACKSYN')} ⎔⎔──⎔`)
     
   } catch (err) {
     console.error(chalk.red(`Can not read File package.json: ${err}`));
